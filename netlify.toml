@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Flag = "PPANDPC{L3ts_g0_t0_th3_z00}"
