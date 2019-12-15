@@ -1,0 +1,32 @@
+body { 
+    background-color: rgb(41, 40, 40);
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.title {
+    color: rgb(223, 90, 13);
+    text-align: center;
+}
+
+a {
+    color: rgb(41, 40, 40);
+    cursor: auto;
+}
+
+.heart {
+    display:block;
+    line-height:8px;
+    font-size: 8px;
+    font-weight:bold;
+    font-family: monospace
+}
+.hidden {
+    color: rgb(41, 40, 40);
+}
+
+.Invisible {
+    color: rgb(41, 40, 40);
+}
+
